@@ -3,8 +3,8 @@
 
 import PackageDescription
 
-let version = "2.1.1"
-let checksum = "75baf3253ee1020a3b2967a86ead4d7dc70cf35fb5c383a425def6f7fb0e608e"
+let version = "2.1.2"
+let checksum = "273a28f4d85c0d6016fe92da7f754454bab2307e0432f046844a7413ba54435b"
 
 let package = Package(
     name: "RavenSDK",
