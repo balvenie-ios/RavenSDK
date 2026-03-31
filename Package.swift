@@ -4,7 +4,7 @@
 import PackageDescription
 
 let version = "2.1.0"
-let checksum = "sha256:201018da9deffc6a442bb18cdadfd4192fdc6d55a8399507ddd19f0862bcbc2e"
+let checksum = "201018da9deffc6a442bb18cdadfd4192fdc6d55a8399507ddd19f0862bcbc2e"
 
 let package = Package(
     name: "RavenSDK",
