@@ -9,7 +9,7 @@
 
 ## 代碼整合 ***Swift***
 
-- 增加以下代碼到 `AppDelegate.swift`.
+- 增加以下代碼到 `AppDelegate.swift` 或是任何你想要初始化的地方
 
 	```swift
 	import UIKit
